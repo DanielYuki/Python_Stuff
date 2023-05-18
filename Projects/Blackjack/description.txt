@@ -1,8 +1,5 @@
 Desenvolvimento de um Jogo de Blackjack em Python
 
-Descrição do Problema:
-Você foi contratado para desenvolver um jogo de blackjack em Python. O objetivo do jogo é simular uma partida de blackjack entre o jogador e o computador (o dealer). O jogador pode interagir com o jogo através de comandos no terminal.
-
 Regras do Jogo:
 1. O jogo será jogado com um único baralho de 52 cartas.
 2. O jogador e o dealer recebem duas cartas cada. No entanto, apenas uma das cartas do dealer é revelada inicialmente.
@@ -24,7 +21,3 @@ Requisitos do Programa:
 
 Solução esperada:
 Espera-se que o programa desenvolvido seja capaz de simular corretamente as regras do jogo de blackjack, permitindo que o jogador faça suas escolhas e exibindo os resultados de cada partida de forma adequada. O código também deve ser legível, bem estruturado e comentado quando necessário.
-
-Entrega:
-A solução deve ser upada no github de vocês até o dia 22/05/2023
-
