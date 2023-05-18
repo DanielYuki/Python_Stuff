@@ -1,0 +1,30 @@
+Desenvolvimento de um Jogo de Blackjack em Python
+
+Descrição do Problema:
+Você foi contratado para desenvolver um jogo de blackjack em Python. O objetivo do jogo é simular uma partida de blackjack entre o jogador e o computador (o dealer). O jogador pode interagir com o jogo através de comandos no terminal.
+
+Regras do Jogo:
+1. O jogo será jogado com um único baralho de 52 cartas.
+2. O jogador e o dealer recebem duas cartas cada. No entanto, apenas uma das cartas do dealer é revelada inicialmente.
+3. O valor das cartas é determinado da seguinte forma: as cartas de 2 a 10 valem seu valor numérico; as cartas J, Q e K valem 10 pontos cada; e o Ás (A) pode valer 1 ou 11 pontos, dependendo da mão.
+4. O jogador pode solicitar cartas adicionais ("hit") para tentar chegar ao valor máximo de 21 pontos, ou pode decidir "ficar" com sua pontuação atual.
+5. Se a soma das cartas do jogador exceder 21 pontos, ele perde automaticamente.
+6. O dealer deve continuar tirando cartas adicionais até que sua pontuação seja igual ou superior a 17 pontos.
+7. Se a soma das cartas do dealer exceder 21 pontos, ele perde automaticamente.
+8. Se nenhum dos jogadores exceder 21 pontos, o vencedor será aquele com a pontuação mais alta. Em caso de empate, o jogo termina empatado.
+
+Requisitos do Programa:
+1. O programa deve ser implementado em Python.
+2. O jogo deve ser interativo, permitindo que o jogador faça escolhas através de comandos no terminal.
+3. O programa deve embaralhar as cartas antes do início de cada partida.
+4. As pontuações do jogador e do dealer devem ser atualizadas a cada jogada.
+5. O programa deve verificar se o jogador ou o dealer excederam 21 pontos em cada jogada.
+6. O programa deve determinar o vencedor e exibir uma mensagem de resultado no final de cada partida.
+7. O programa deve permitir que o jogador decida se deseja jogar novamente ou sair do jogo.
+
+Solução esperada:
+Espera-se que o programa desenvolvido seja capaz de simular corretamente as regras do jogo de blackjack, permitindo que o jogador faça suas escolhas e exibindo os resultados de cada partida de forma adequada. O código também deve ser legível, bem estruturado e comentado quando necessário.
+
+Entrega:
+A solução deve ser upada no github de vocês até o dia 22/05/2023
+
